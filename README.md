@@ -1,12 +1,12 @@
 Customer Segmentation RFM Analysis Dashboard
 
-​📌 Project Overview
+​ Project Overview
 
 ​This project focuses on building an interactive, data-driven Customer Segmentation Dashboard using Power BI to perform a comprehensive RFM (Recency, Frequency, Monetary) analysis. The core objective of this analysis is to evaluate historical sales data, segment customers based on their purchasing behavior, and deliver actionable insights that help businesses maximize retention and reduce customer churn.
 
 ​By categorizing customer profiles, this dashboard empowers marketing and sales teams to identify high-value loyalists, spot seasonal purchasing trends, and implement targeted re-engagement strategies for at-risk segments.
 
-​📊 Key Dashboard Features
+​Key Dashboard Features
 
 ​Executive KPI Summary: Displays high-level critical metrics at a glance, including total unique customer counts, overall revenue generated ($91.83M), overall average recency, and cumulative purchase frequency (100K).
 
@@ -18,7 +18,7 @@ Customer Segmentation RFM Analysis Dashboard
 
 ​Built-in Cross-Filtering Interactivity: Built with a balanced, scannable layout where clicking on any specific segment folder within the Treemap dynamically filters the entire page to update related counts, recency, and total transaction values on the fly.
 
-​🛠️ Tools & Technologies Used
+​ Tools & Technologies Used
 
 ​Power BI Desktop: Data modeling, visualization, and canvas layout optimization.
 
